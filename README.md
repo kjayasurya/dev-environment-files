@@ -180,3 +180,7 @@ xcode-select --install
 #### Git
 
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Show line modifications on left hand side
+
+#### Coolnight gnome-terminal theme
+
+dconf load /org/gnome/terminal/legacy/profiles:/ < ./coolnight.dconf
