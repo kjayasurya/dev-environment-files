@@ -1,0 +1,53 @@
+[/]
+default='44054d9c-8caa-463a-87ec-be2af4b56bfc'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', 'af2a71a3-ffcf-494d-8c7d-6f0594d09ebd', 'f3d3987a-cdf0-46ba-9960-128b1f9b3b3d', '44054d9c-8caa-463a-87ec-be2af4b56bfc']
+
+[:44054d9c-8caa-463a-87ec-be2af4b56bfc]
+background-color='rgb(1,11,23)'
+bold-color='rgb(238,238,238)'
+bold-color-same-as-fg=false
+bold-is-bright=true
+font='MesloLGS NF 12'
+foreground-color='rgb(235,221,244)'
+palette=['rgb(11, 59, 97)', 'rgb(255, 58, 58)', 'rgb(82, 255, 207)', 'rgb(255, 243, 131)', 'rgb(19, 118, 248)', 'rgb(199, 146, 234)', 'rgb(255, 93, 212)', 'rgb(21, 252, 162)', 'rgb(98, 104, 108)', 'rgb(255, 84, 176)', 'rgb(115, 255, 216)', 'rgb(252, 244, 173)', 'rgb(55, 141, 254)', 'rgb(174, 129, 255)', 'rgb(255, 105, 215)', 'rgb(95, 251, 190)']
+use-system-font=false
+use-theme-colors=false
+use-transparent-background=false
+visible-name='Coolnight'
+
+[:a27f198a-7e85-4b6d-9003-fb8b3f2465f5]
+background-color='rgb(1,11,23)'
+background-transparency-percent=24
+font='MesloLGS NF 12'
+foreground-color='rgb(235,221,244)'
+palette=['rgb(11, 59, 97)', 'rgb(255, 58, 58)', 'rgb(82, 255, 207)', 'rgb(255, 243, 131)', 'rgb(19, 118, 248)', 'rgb(199, 146, 234)', 'rgb(255, 93, 212)', 'rgb(21, 252, 162)', 'rgb(98, 104, 108)', 'rgb(255, 84, 176)', 'rgb(115, 255, 216)', 'rgb(252, 244, 173)', 'rgb(55, 141, 254)', 'rgb(174, 129, 255)', 'rgb(255, 105, 215)', 'rgb(95, 251, 190)']
+use-system-font=false
+use-theme-colors=false
+use-transparent-background=false
+visible-name='CoolNight'
+
+[:af2a71a3-ffcf-494d-8c7d-6f0594d09ebd]
+background-color='rgb(0,0,0)'
+background-transparency-percent=15
+bold-is-bright=true
+foreground-color='rgb(27,82,5)'
+use-theme-colors=false
+use-transparent-background=false
+visible-name='Green'
+
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(23,20,33)'
+background-transparency-percent=24
+font='Monospace 14'
+foreground-color='rgb(253,88,71)'
+palette=['rgb(23,20,33)', 'rgb(192,28,40)', 'rgb(38,162,105)', 'rgb(162,115,76)', 'rgb(18,72,139)', 'rgb(163,71,186)', 'rgb(42,161,179)', 'rgb(208,207,204)', 'rgb(94,92,100)', 'rgb(246,97,81)', 'rgb(51,218,122)', 'rgb(233,173,12)', 'rgb(42,123,222)', 'rgb(192,97,203)', 'rgb(51,199,222)', 'rgb(255,255,255)']
+use-system-font=false
+use-theme-colors=false
+use-transparent-background=false
+visible-name='Orange'
+
+[:f3d3987a-cdf0-46ba-9960-128b1f9b3b3d]
+font='MesloLGS NF 12'
+use-system-font=false
+use-theme-colors=true
+visible-name='System'
